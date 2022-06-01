@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    list-style:none;
+}
+ 
+
+.nav-link {
+    color:white;
+    }
+    
+.banner-img{
+    background:url(./images/forge-2221506_1920\ -\ Shortcut.lnk );
+    background-size: cover;
+    position:relative;
+    width:100%;
+    height: 400px;
+}
